@@ -19,12 +19,12 @@ Get API Key from [Eventbrite](https://www.eventbrite.com/platform/)
 
 On your local machine, go to the directory where you want to work and clone the Fun Cheap Bay Area repository:
 ```
-$ git clone https://github.com/jessicahojh/fun_cheap_bay_area.git
+git clone https://github.com/jessicahojh/fun_cheap_bay_area.git
 ```
 Install dependencies:
 ```
 npm install
-npm client-install
+npm install --prefix client
 ```
 Run the app:
 ```
