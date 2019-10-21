@@ -33,5 +33,5 @@ npm run dev
 
 <a name="demo"/></a>
 ## Demo
-**Homepage:**
+**Demo screen recordings go here**
 <br/><br/>
